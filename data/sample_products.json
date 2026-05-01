@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Isntree Hyaluronic Acid Watery Sun Gel SPF 50+",
+    "price": 19,
+    "tags": ["korean", "lightweight", "spf", "hydrating", "acne-safe"],
+    "shortDescription": "Dewy chemical sunscreen with hyaluronic acid that layers well under makeup."
+  },
+  {
+    "name": "EltaMD UV Clear Broad-Spectrum SPF 46",
+    "price": 39,
+    "tags": ["dermatologist", "niacinamide", "spf", "acne-safe", "sensitive"],
+    "shortDescription": "Popular calming SPF lotion formulated for acne-prone and rosacea-prone skin."
+  },
+  {
+    "name": "Beauty of Joseon Relief Sun: Rice + Probiotics SPF 50+",
+    "price": 18,
+    "tags": ["korean", "spf", "lightweight", "glowy", "acne-safe"],
+    "shortDescription": "Silky cream sunscreen with a no-white-cast finish and skin-soothing ingredients."
+  },
+  {
+    "name": "CeraVe AM Facial Moisturizing Lotion SPF 30",
+    "price": 16,
+    "tags": ["drugstore", "ceramides", "spf", "budget", "sensitive"],
+    "shortDescription": "Barrier-supporting daily moisturizer with SPF and non-comedogenic hydration."
+  },
+  {
+    "name": "Round Lab Birch Juice Moisturizing Sunscreen SPF 50+",
+    "price": 25,
+    "tags": ["korean", "spf", "hydrating", "lightweight", "acne-safe"],
+    "shortDescription": "Creamy but breathable SPF that keeps skin comfortable through the day."
+  },
+  {
+    "name": "La Roche-Posay Anthelios Clear Skin Dry Touch SPF 60",
+    "price": 22,
+    "tags": ["oil-control", "spf", "acne-safe", "matte", "drugstore"],
+    "shortDescription": "Shine-controlling sunscreen with a matte finish for oilier complexions."
+  },
+  {
+    "name": "Neutrogena Hydro Boost Water Gel Lotion SPF 50",
+    "price": 15,
+    "tags": ["drugstore", "lightweight", "spf", "hydrating", "budget"],
+    "shortDescription": "Water-gel SPF lotion that absorbs quickly and feels light on skin."
+  },
+  {
+    "name": "Skin1004 Madagascar Centella Hyalu-Cica Water-Fit Sun Serum SPF 50+",
+    "price": 20,
+    "tags": ["korean", "centella", "spf", "acne-safe", "lightweight"],
+    "shortDescription": "Serum-like sunscreen that soothes irritated skin while delivering high protection."
+  }
+]
