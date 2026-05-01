@@ -1,0 +1,67 @@
+[
+  {
+    "productName": "Rhode Barrier Restore Cream (Milk Moisturizer)",
+    "retailer": "Rhode official site",
+    "productUrl": "https://www.rhodeskin.com/products/barrier-restore-cream",
+    "productPrice": 29,
+    "shippingCost": 5.95,
+    "estimatedTax": 2.41,
+    "totalCost": 37.36,
+    "deliveryEstimate": "4-6 business days",
+    "trustLevel": 10,
+    "sellerRisk": 1,
+    "inStock": true
+  },
+  {
+    "productName": "Rhode Barrier Restore Cream (Milk Moisturizer)",
+    "retailer": "Amazon",
+    "productUrl": "https://www.amazon.com/mock-rhode-milk-moisturizer",
+    "productPrice": 31,
+    "shippingCost": 0,
+    "estimatedTax": 2.57,
+    "totalCost": 33.57,
+    "deliveryEstimate": "2 days",
+    "trustLevel": 6,
+    "sellerRisk": 6,
+    "inStock": true
+  },
+  {
+    "productName": "Rhode Barrier Restore Cream (Milk Moisturizer)",
+    "retailer": "Sephora",
+    "productUrl": "https://www.sephora.com/product/mock-rhode-milk-moisturizer",
+    "productPrice": 30,
+    "shippingCost": 0,
+    "estimatedTax": 2.48,
+    "totalCost": 32.48,
+    "deliveryEstimate": "3-4 business days",
+    "trustLevel": 9,
+    "sellerRisk": 1,
+    "inStock": true
+  },
+  {
+    "productName": "Rhode Barrier Restore Cream (Milk Moisturizer)",
+    "retailer": "Ulta",
+    "productUrl": "https://www.ulta.com/p/mock-rhode-milk-moisturizer",
+    "productPrice": 30,
+    "shippingCost": 6.95,
+    "estimatedTax": 2.48,
+    "totalCost": 39.43,
+    "deliveryEstimate": "5-7 business days",
+    "trustLevel": 9,
+    "sellerRisk": 2,
+    "inStock": true
+  },
+  {
+    "productName": "Rhode Barrier Restore Cream (Milk Moisturizer)",
+    "retailer": "Target",
+    "productUrl": "https://www.target.com/p/mock-rhode-milk-moisturizer",
+    "productPrice": 29.99,
+    "shippingCost": 3.99,
+    "estimatedTax": 2.47,
+    "totalCost": 36.45,
+    "deliveryEstimate": "2-3 days",
+    "trustLevel": 8,
+    "sellerRisk": 2,
+    "inStock": true
+  }
+]
